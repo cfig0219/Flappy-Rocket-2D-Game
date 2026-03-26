@@ -25,9 +25,10 @@ This project is a recreation of the classic "Flappy Bird" mechanic, reimagined a
 ## 💻 How to Run
 
 ### Python Version
-1. **Ensure you have `pygame` installed, then run:**
-   ```bash
-   python FlappyRocketPython.py
+**Ensure you have `pygame` installed, then run:**
+```bash
+python FlappyRocketPython.py
+ ```
 
 ### C++ Version
 Ensure you have a C++ compiler (like `g++`) installed, then run:
